@@ -1,5 +1,6 @@
 +++
 title = "Amélie Quilichini"
+draft = false
 +++
 
 {{< columns alignment="center" >}}
