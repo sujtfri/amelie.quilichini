@@ -1,10 +1,10 @@
 +++
 title = "Blog"
-draft = true
+draft = false
 +++
 
 ### Blog
-
+Test
 Welcome to the blog! This is where you can share updates, ideas, and stories about your work and experiences. Use this space to talk about your research, projects, or anything else you find interesting.
 
 ##### What You Can Do Here
