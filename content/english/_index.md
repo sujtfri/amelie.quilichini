@@ -1,6 +1,5 @@
 +++
-title = "John Doe"
-draft = false
+title = "Amélie Quilichini"
 +++
 
 {{< columns alignment="center" >}}
